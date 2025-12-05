@@ -7,7 +7,7 @@ I enjoy turning complex problems into simple, usable applications that actually 
 ---
 
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 - 🔧 Mobile Developer (Flutter)
 - ☁️ Firebase Specialist (Auth, Cloud Functions, Firestore, FCM)
 - 🧱 Clean Architecture, modular & scalable systems
@@ -48,7 +48,7 @@ I enjoy turning complex problems into simple, usable applications that actually 
 ---
 
 
-## 📦 Featured Projects
+## 📱💻 Featured Projects
 
 ### 🔶 **SchichtCheck-in 
 SaaS shift management system (multi-role)**
@@ -76,7 +76,7 @@ This is a **production-grade** project — the kind of thing that shows companie
 ---
 
 
-### 🔷 **Trading Journal App**
+### 📈 **Trading Journal App**
 **Tech:** Flutter, Firebase, Calendar integration
 
 A complete trading journal app where users can log, analyze, and track trades with calendar-based visualization.
